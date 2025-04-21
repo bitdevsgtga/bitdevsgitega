@@ -10,7 +10,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: BitDevs Zambia
-description: BitDevs Zambia is a community of Bitcoiners interested in technical discussions, development, and building local Bitcoin solutions.
+description: BitDevs Zambia is a community of Bitcoiners in Zambia interested in technical discussions, development, and building local Bitcoin solutions.
 
 
 # Leave out some files
