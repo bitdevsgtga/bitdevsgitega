@@ -1,9 +1,7 @@
-title: 'BitDevs NYC'
-tagline: 'BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
+title: BitDevs Zambia
+description: BitDevs Zambia is a community of Bitcoiners in Zambia interested in technical discussions, development, and building local Bitcoin solutions.
 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
   - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
-  - {name: 'Cities', url: '/cities'}
