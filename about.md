@@ -1,55 +1,38 @@
 ---
 layout: default
+title: About
+permalink: /about/
 ---
 
-BitDevs is a community for those interested in discussing and participating in
-the research and development of Bitcoin and related protocols. You can be well
-versed with or new to the topics, all are welcome. Be advised: discussion will
-be technical.
+# About BitDevs Zambia
+
+**BitDevs Zambia** is a community of Bitcoiners in Zambia focused on exploring the technical side of Bitcoin. Inspired by the original BitDevs NYC, we host meetups, workshops, and study groups to deepen our understanding of Bitcoin’s protocol, Lightning Network, privacy tools, Bitcoin-related development, and local use cases.
+
+We welcome developers, builders, educators, entrepreneurs, students, and anyone curious about how Bitcoin works under the hood and how it can be applied to solve real challenges in Zambia.
+
+### What We Do
+
+- **Technical Discussions**: Regular Socratic Seminars covering the latest Bitcoin research, BIPs, and implementation updates.
+- **Workshops & Hackathons**: Hands-on sessions for developers and technologists to build local Bitcoin solutions.
+- **Reading Groups**: Deep dives into Bitcoin technical literature.
+- **Collaborative Projects**: Support for open-source Bitcoin development in the Zambian context.
 
 ### Socratic Seminars
 
-Our monthly Socratic Seminar events are formatted to foster debate, information
-sharing and lively discussion. In the weeks preceding the event, discussion
-topics are collated by meetup members from a variety of sources: pull requests
-in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
-network monitors and more. After a period of discussion, some events will have [presentations](https://bitdevs.org/presenter-guidelines/) of open source
-projects, companies, research and other relevant content. A feedback and Q&A
-section follow. After the event the group gathers at a nearby restaurant to
-socialize.
+Our Socratic Seminars are structured to encourage deep discussion and learning around Bitcoin’s protocol, development tools, privacy improvements, and emerging ideas in the ecosystem. Each session features curated topics drawn from BitDevs mailing lists, Bitcoin Improvement Proposals (BIPs), GitHub PRs, research papers, and open-source development updates.
 
-A newsletter is sent out the day of the event which outlines discussion topics.
-Archives of discussion topics and presentations can be found in the event
-descriptions of past meetups. The discussion portion of the event is NEVER
-recorded. It is recommended that you have a firm grasp of the basics of Bitcoin
-in order to extract the most value from our Socratic events.
+Participants are encouraged to read in advance and come with questions or ideas to share. These events are not recorded — they are meant to be informal, candid, and engaging.
 
-Please contact the organizers if you'd like to present at a future Socratic
-event or have a recommended topic for discussion: bitdevsnyc at gmail. There
-are different requirements for presentations depending on the nature of the
-project.
+Some sessions include lightning talks, hands-on demos, or breakout discussions. We also create a safe space for beginners to ask questions and learn alongside more experienced contributors.
 
-### Whitepaper Series
+Want to contribute or present at a future event? [Contact us](mailto:zambezi101@proton.me) with your topic idea!
 
-A journal club to discuss specific topics in the Bitcoin ecosystem. This is an
-academic-style journal club where one person chooses a topic or paper and
-presents it. Participants are expected to have read the paper or other material
-suggested by the discussion leader. The discussion leader doesn’t have to be an
-expert on the subject, but should be interested enough in it to read the paper
-thoroughly so as to give a decent presentation. After informally presenting the
-topic, the group can then ask questions or open discussion surrounding the
-topic. The presentation should be informal (slides are allowed, but
-whiteboard/chalkboard is preferred), and this should be a discussion, not a
-one-way transmission of information by the presenter. The reading material
-doesn’t have to be a whitepaper. In the case of widely-known topics (such as
-Elliptic Curve encryption) a chapter of a textbook, Wikipedia article, or other
-material can be suggested.
+### Join Us
 
-To propose a topic to present or volunteer to present a paper, please contact
-bitdevsnyc at gmail.
+Whether you're a seasoned developer or new to Bitcoin, BitDevs Zambia is a space to learn, ask questions, and collaborate.
 
-### Debate Series
+👉 [Check out our events](/events)  
+👉 [Join a local meetup](https://bitcoinzambia.org/meetups/)  
+👉 [Follow us on GitHub](https://github.com/BitDevs-Zambia)
 
-Our debate series is dedicated to the investigation of controversial technical
-topics. The structure of the event is dependent on the topic of interest.
+Together, we’re building a grassroots Bitcoin development community in Zambia.
