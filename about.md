@@ -32,6 +32,9 @@ Whether you're a seasoned developer or new to Bitcoin, BitDevs Zambia is a space
 
 👉 [Check out our events](/events)  
 👉 [Join a local meetup](https://bitcoinzambia.org/meetups/)  
+👉 [Follow us on X](https://x.com/bitdevszambia)
 👉 [Follow us on GitHub](https://github.com/BitDevs-Zambia)
+
+
 
 Together, we’re building a grassroots Bitcoin development community in Zambia.
