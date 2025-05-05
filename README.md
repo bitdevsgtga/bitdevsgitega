@@ -1,41 +1,23 @@
-# BitDevs NYC
 
-Simple Jekyll site for hosting all of the links from meetups past and future.
+# BitDevs-Zambia
+BitDevs Zambia is a Bitcoin Zambia initiative to foster Bitcoin development, education, and open-source collaboration in Zambia. Inspired by global BitDevs communities, this project provides a local space for developers, researchers, and Bitcoin enthusiasts to study and contribute to Bitcoin's protocol and ecosystem.
 
-## Development
+The initiative officially launched during the first BitDev workshop in Lusaka (April 2025), hosted by Bitcoin Zambia and Anita Posch, and supported by Bitcoin for Fairness.
 
-You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the
-site locally. Once they're setup:
+## Goals:
+- Host regular BitDevs-style Socratic Seminars and Bitcoin Reading Groups
+- Support local developers learning to build with and contribute to Bitcoin
+- Curate resources, discussion notes, and learning materials relevant to the Zambian context
+- Promote free and open-source contributions to Bitcoin and related technologies
 
-* Clone the repository and go into the directory
-* Run `bundle install`
-* Run `jekyll serve`
-* Go to http://localhost:4000
+## Who is it for?
 
-## Making a Post
+- Developers
+- Students
+- Educators
+- Anyone curious about the technical side of Bitcoin
 
-To make a new post, make a new file in `_posts/` with a title of
-`YYYY-MM-DD-title-goes-here`. At the top of the file you'll want to provide the
-following information:
+## Events:
 
-```md
----
-layout: post # Always post
-type: socratic # or whitepaper for a whitepaper series
-title: "Name of the Post"
-meetup: https://www.meetup.com/BitDevsNYC/events/[event id here]/
----
-```
-
-After that, it's just simple markdown. The site will auto-generate the rest.
-
-## Changing Site Data
-
-All site configurations are either contained in `_config.yml` or
-`_data/settings.yml`. Some data is duplicated between the two due to the way
-Jekyll injects variables, so be sure to update both.
-
-## Attributions
-
-Thanks to [LeNPaul](https://github.com/LeNPaul/jekyll-starter-kit) for the
-Jekyll starter kit this was forked from.
+- March 2025 — BitDevs Zambia Meetup (Lusaka):
+Our first official BitDevs-style meetup! Developers and Bitcoiners gathered in Lusaka.
