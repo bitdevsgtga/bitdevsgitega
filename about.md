@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-**BitDevs Zambia** is a community of Bitcoiners in Zambia focused on exploring the technical side of Bitcoin. Inspired by the original BitDevs NYC, we host meetups, workshops, and study groups to deepen our understanding of Bitcoin’s protocol, Lightning Network, privacy tools, Bitcoin-related development, and local use cases.
+**BitDevs Zambia** is a community of Bitcoin developers, educators, builders, and technically curious enthusiasts based in Zambia. Inspired by the original BitDevs NYC, we explore the inner workings of Bitcoin through meetups, workshops, study groups, and Socratic Seminars. Our focus includes Bitcoin protocol development, the Lightning Network, privacy tools, and practical local use cases.
+
+We also share developer-focused opportunities such as grants, bounties, fellowships, and job openings in the Bitcoin ecosystem to help grow local talent and connect Zambian developers with the global open-source Bitcoin movement.
 
 We welcome developers, builders, educators, entrepreneurs, students, and anyone curious about how Bitcoin works under the hood and how it can be applied to solve real challenges in Zambia.
 
@@ -24,14 +26,14 @@ Participants are encouraged to read in advance and come with questions or ideas 
 
 Some sessions include lightning talks, hands-on demos, or breakout discussions. We also create a safe space for beginners to ask questions and learn alongside more experienced contributors.
 
-Want to contribute or present at a future event? [Contact us](mailto:zambezi101@proton.me) with your topic idea!
+Want to contribute or present at a future event? [Contact us](mailto:ndesax@proton.me) with your topic idea!
 
 ### Join Us
 
 Whether you're a seasoned developer or new to Bitcoin, BitDevs Zambia is a space to learn, ask questions, and collaborate.
 
 👉 [Check out our events](/events)  
-👉 [Join a local meetup](https://bitcoinzambia.org/meetups/)  
+👉 [Check out our local Bitcoin meetup](https://bitcoinzambia.org/meetups/)  
 👉 [Follow us on X](https://x.com/bitdevszambia)<br>
 👉 [Follow us on GitHub](https://github.com/Bitcoin-Zambia/bitdevs-zambia)
 
