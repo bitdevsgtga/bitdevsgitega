@@ -4,6 +4,6 @@ description: BitDevs Gitage is a community of Bitcoiners in Gitage interested in
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://lu.ma/user/bitdevszm', external: true}
-  - {name: "X", url: "https://x.com/bitdevsGitage", external: true}
+  - {name: 'Meetup', url: 'https://lu.ma/user/bitdevsgtga', external: true}
+  - {name: "X", url: "https://x.com/bitdevsgtga", external: true}
 
