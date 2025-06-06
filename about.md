@@ -34,8 +34,8 @@ Whether you're a seasoned developer or new to Bitcoin, BitDevs Gitage is a space
 
 👉 [Check out our events](/events)  
 👉 [Check out our local Bitcoin meetup](https://bitdevsgtga.org/meetups/)  
-👉 [Follow us on X](https://x.com/bitdevsGitage)<br>
-👉 [Follow us on GitHub](https://github.com/bitdevsgtga/bitdevsgitage)
+👉 [Follow us on X](https://x.com/bitdevsgtga)<br>
+👉 [Follow us on GitHub](https://github.com/bitdevsgtga/bitdevsgitega)
 
 
 
