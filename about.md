@@ -33,7 +33,7 @@ Want to contribute or present at a future event? [Contact us](mailto:bitdevsgtga
 Whether you're a seasoned developer or new to Bitcoin, BitDevs Gitega is a space to learn, ask questions, and collaborate.
 
 👉 [Check out our meetups](/meetups)  
-<!-- 👉 [Check out our local Bitcoin meetup](https://bitdevsgtga.org/meetups/)   -->
+👉 [Check out our Luma Page](https://lu.ma/user/bitdevsgtga)  
 👉 [Follow us on X](https://x.com/bitdevsgtga)<br>
 👉 [Follow us on GitHub](https://github.com/bitdevsgtga/bitdevsgitega)
 
