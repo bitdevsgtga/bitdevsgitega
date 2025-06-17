@@ -1,6 +1,6 @@
 ---
 layout: post
-type: "socratic"
+type: socratic
 title: "Socratic Seminar 1"
 meetup: https://lu.ma/lp56n5dl
 ---
