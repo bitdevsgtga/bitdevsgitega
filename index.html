@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
-<p class="Home-about">
-<p>
+<div class="Home">
+  <p class="Home-about">
+ <p>
   <strong>BitDevs Gitega</strong> is a community of Bitcoin developers, educators, builders, and technically curious enthusiasts based in Gitega. Inspired by the original BitDevs NYC, we explore the inner workings of Bitcoin through meetups, workshops, study groups, and Socratic Seminars.
 </p>
 
@@ -15,48 +16,28 @@ title: Home
 <p>
   We also share developer-focused opportunities such as grants, bounties, fellowships, and job openings in the Bitcoin ecosystem to help grow local talent and connect Gitegan developers with the global open-source Bitcoin movement.
 </p>
+  </p>
 
-</p>
-
-<div class="Home-posts">
-  <h2 class="Home-posts-title">Upcoming Events</h2>
-
-  <div class="Post">
-    <h3 class="Post-title">BitDevs Gitega Seminar</h3>
-    <p><strong>Date:</strong> Friday, June 13, 2025<br>
-      <strong>Time:</strong> 3:00 PM – 4:30 PM GMT+2<br>
-      <strong>Location:</strong> Gitega Study Space, Gitega, Burundi<br>
-    </p>
-  </div>
-
-</div>
-
-<div class="Home-posts">
-  <h2 class="Home-posts-title">Past Events</h2>
-<marquee><h4 class="Post-title">There is no past events, please wait a bit...</h4></marquee>
-<div class="Post" hidden>
-    <h3 class="Post-title">BitDevs Gitega Seminar</h3>
-    <p><strong>Date:</strong> Saturday, May 31, 2025<br>
-      <strong>Time:</strong> 3:00 PM – 4:30 PM GMT+2<br>
-      <strong>Location:</strong> Global Platform Gitega, T4, Gitega, Gitega<br>
-    </p>
-  </div>
-
-
-  
-  <div class="Post" hidden>
-    <h3 class="Post-title">Bitcoin Developers Meetup with Anita Posch</h3>
-    <p>
-      <strong>Date:</strong> March 26, 2025<br>
-      <strong>Location:</strong> AfricaWorks, Gitega, Gitega<br>
-      <strong>Details:</strong> A meetup with Bitcoin educator Anita Posch focused on Bitcoin development and community building.
-    </p>
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+    {% assign event_posts = 7 %}
+    {% assign counter = 0 %}
+    {% for post in site.posts %}
+      {% if post.type == "socratic" or post.type == "whitepaper"%}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}.html">{{ post.title }}</a>
+        </div>
+        {% assign counter = counter | plus: 1 %}
+        {% if counter == event_posts %}
+          {% break %} {% comment %}exit the for loop{% endcomment %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <p><a href="/events.html">See all events</a></p>
   </div>
 </div>
-
 <p style="text-align: center; font-weight: bold; margin-top: 2rem;">
   Contact us <a href="mailto:bitdevsgtga@gmail.com">here</a>
 </p>
-
-
-
