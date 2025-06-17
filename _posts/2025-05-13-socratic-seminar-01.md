@@ -10,7 +10,7 @@ Date and Time: Friday, June 13, 2025  5:00 PM - 8:00 Pm
 
 Location: Gitega Study Space, Gitega, Burundi
 
-Organized by: Free Tech Institute
+Organized by: Bitdevs Gitega
 
 Registration link: https://lu.ma/lp56n5dl
 
