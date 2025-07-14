@@ -20,13 +20,20 @@ A key highlight of this session was the formation of collaborative development t
 
 ## Agenda:
 ●	 Welcome and Recap – Introduction and brief review of the June meetup and BitDevs goals
+
 ●	 Session by Advaxe NDAYISENGA – Deep dive into open-source project publishing on GitHub
+
 ●	Interactive Demo – Structuring a repository: README, Issues, Pull Requests, Branches
+
 ●	Team Formation – Announcement and grouping of the 4 development teams
+
 ●	Assignment Brief – Explanation of team tasks and open Q&A
+
 ●	Collaboration Activation – Teams begin initial discussion and planning
+
 ●	Closing Remarks – Summary, next steps, and announcement of the next meetup date
-Attendees:
+
+## Attendees:
 1.	Egide MANIRAKIZA
 2.	Belyi Nobel KUBAYO
 3.	Abdul-Aziz Usman
@@ -48,8 +55,11 @@ Attendees:
 
 ## Key Takeaways:
 ★	Participants learned how to structure and maintain an open-source repository on GitHub.
+
 ★	Emphasis was placed on writing clear README files, opening issues, and creating pull requests.
+
 ★	Five development teams were officially formed, each tasked with building or analyzing a small open-source Bitcoin-related tool or feature.
+
 ★	Team collaboration was launched, fostering accountability and shared progress among participants.
 
 Development Teams Formed: IWACUTECH, LEGENDS, UMUHORATECH and TANGANYIKATECH
@@ -57,8 +67,11 @@ Development Teams Formed: IWACUTECH, LEGENDS, UMUHORATECH and TANGANYIKATECH
 
 ## Next Steps:
 ❖	Each group will work on their assigned project and present updates at the August meetup.
+
 ❖	A shared GitHub organization will be created to host team repositories.
+
 ❖	Code review and mentorship sessions will be organized to support quality contributions.
+
 ❖	Progress and code contributions will be documented and shared with the broader open-source Bitcoin community.
 
 
