@@ -57,15 +57,21 @@ The session also included a technical presentation by <a href="https://x.com/Adv
 
 ## Key Takeaways and challenges:
 ★	All groups proposed repositories, but few succeeded in building functional APKs
+
 ★	Major blocker: difficulty integrating Bitcoin libraries such as bitcoinj or kps in Android/Kotlin environments
+
 ★	Urgent need for technical mentors to guide the teams through FOSS development
+
 ★	Strong group collaboration and shared enthusiasm for open-source contribution
 
 
 ## Next Steps:
 ❖	Ongoing project development by each team
+
 ❖	Outreach to external FOSS mentors to join the community
+
 ❖	Setup of a shared GitHub organization for all repositories
+
 ❖	Preparation for the mini Hackathon for teams towards the end of the year 
 
 
