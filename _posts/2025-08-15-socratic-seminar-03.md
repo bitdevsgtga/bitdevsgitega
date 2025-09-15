@@ -9,7 +9,7 @@ meetup: https://shorturl.at/ZD9mw
 
 ●	Location: Gitega Study Space, Gitega, Burundi
 
-●	Organized by: Free Tech Institute
+●	Organized by: Bitdevs Gitega
 
 ●	Registration link: https://shorturl.at/ZD9mw
 

@@ -9,7 +9,7 @@ meetup: https://lu.ma/8zhhtr5a
 
 ●	Location: Gitega Study Space, Gitega, Burundi
 
-●	Organized by: Free Tech Institute
+●	Organized by: Bitdevs Gitega
 
 ●	Registration link: https://lu.ma/8zhhtr5a 
 
