@@ -18,6 +18,7 @@ meetup: https://clooza.com/events/FOSS
 The 4th Socratic Seminar of BitDevs Gitega was an emotionally moving and highly engaging session. It served as the best moment for the FOSS developer subgroups to present the progress of their respective projects.
 
 As of this session:
+
 ●	All members and participants now have a solid understanding of how on-chain Bitcoin transactions work.
 
 ●	Most teams have already completed the front-end development of their applications.
@@ -28,6 +29,7 @@ This seminar also featured a special technical session introducing participants 
 
 
 The session was led by <a href="https://x.com/AdvaxeIr" target="_blank">Advaxe NDAYISENGA</a>, who delivered a comprehensive introduction to:
+
 ●	The fundamentals of the Lightning Network,
 
 ●	How to set up and operate a Lightning node,
