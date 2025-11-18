@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 4"
+title: "Socratic Seminar 5"
 meetup: https://clooza.com/events/FOSS
 ---
 ## Event Details:
