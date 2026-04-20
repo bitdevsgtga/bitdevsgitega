@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 9"
+title: "Socratic Seminar 10"
 meetup: https://clooza.com/events/CASHU 
 ---
 ## Event Details:
