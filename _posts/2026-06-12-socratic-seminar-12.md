@@ -1,8 +1,8 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 11"
-meetup: https://clooza.com/events/CASHU 
+title: "Socratic Seminar 12"
+meetup: https://clooza.com/events/BTC 
 ---
 ## Event Details:
 ●	Date and Time: : Friday, June 12, 2026 5:00 PM - 7:00 PM
